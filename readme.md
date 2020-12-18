@@ -1,0 +1,1 @@
+created a to-do list website which allows a person to add tasks to be carried out, check it when done, edit it in case of errors and and also delete the task when done and also clear all the task when completed.
